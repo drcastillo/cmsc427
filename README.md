@@ -13,4 +13,10 @@ and Crew to provide a comprehensive habitat specification for a specific breed a
 This example can be generalized for any reptile or animal but is intentionally focused on turtles 
 so that it aligns with the Genetic Algorithm Agent assignment in CMSC427.
 
+Step 1: Setting up the environment
+
+Download MiniConda 32/64 bit version for Windows or Mac or Linux. Choose the appropriate installer for your 
+operating system and architecture (Windows, macOS, or Linux, 64-bit or 32-bit)
+
+Step 2: Configuring a Conda Virtual Environment for CrewAI
 
