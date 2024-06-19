@@ -18,14 +18,14 @@ so that it aligns with the Genetic Algorithm Agent assignment in CMSC427.</p>
 Download MiniConda 32/64 bit version for Windows or Mac or Linux. Choose the appropriate installer for your 
 operating system and architecture (Windows, macOS, or Linux, 64-bit or 32-bit)
 
-Step 2: Clone this repository. Find a location on your computer and enter the following:
+<strong>Step 2: Clone this repository. Find a location on your computer and enter the following:</strong>
 
-git clone https://github.com/drcastillo/cmsc427.git
+`git clone https://github.com/drcastillo/cmsc427.git`
 
 Step 3: Configuring the environment for CrewAI
 
 Once the environment is cloned change directories to the "cmsc427" directory and type in the following:
 
-conda 
+`conda `
 
 /Users/davidcastillo/Desktop/dev/cmsc427% 
