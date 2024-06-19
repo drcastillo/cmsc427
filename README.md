@@ -1,7 +1,7 @@
-# CMSC427
-Simple Agent example that leverages LLMs and Agents
+<h1>CMSC427>/h1>
+<h2></h2>Simple Agent example that leverages LLMs and Agents</h1>h2>
 
-In the Turtle example in CMSC427 we depend on the logic of Genetic Algorithms 
+<p>In the Turtle example in CMSC427 we depend on the logic of Genetic Algorithms 
 to recommend the size of the turtle tank, given the breed and age of the turtle. 
 
 This example demonstrates an alternative approch that leverages LLMs and Agents
@@ -11,7 +11,7 @@ We leverage an open source Agent framework called CrewAI to create the Agents, T
 and Crew to provide a comprehensive habitat specification for a specific breed and age of turtle.
 
 This example can be generalized for any reptile or animal but is intentionally focused on turtles 
-so that it aligns with the Genetic Algorithm Agent assignment in CMSC427.
+so that it aligns with the Genetic Algorithm Agent assignment in CMSC427.</p>
 
 Step 1: Setting up the environment
 
