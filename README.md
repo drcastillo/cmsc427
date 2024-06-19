@@ -1,5 +1,5 @@
-<h1>CMSC427>/h1>
-<h2></h2>Simple Agent example that leverages LLMs and Agents</h1>h2>
+<h1>CMSC427</h1>
+<h2>Simple Agent example that leverages LLMs and Agents</h2>
 
 <p>In the Turtle example in CMSC427 we depend on the logic of Genetic Algorithms 
 to recommend the size of the turtle tank, given the breed and age of the turtle. 
@@ -13,7 +13,7 @@ and Crew to provide a comprehensive habitat specification for a specific breed a
 This example can be generalized for any reptile or animal but is intentionally focused on turtles 
 so that it aligns with the Genetic Algorithm Agent assignment in CMSC427.</p>
 
-Step 1: Setting up the environment
+<strong>Step 1: Setting up the environment</strong>
 
 Download MiniConda 32/64 bit version for Windows or Mac or Linux. Choose the appropriate installer for your 
 operating system and architecture (Windows, macOS, or Linux, 64-bit or 32-bit)
