@@ -18,9 +18,9 @@ Step 1: Setting up the environment
 Download MiniConda 32/64 bit version for Windows or Mac or Linux. Choose the appropriate installer for your 
 operating system and architecture (Windows, macOS, or Linux, 64-bit or 32-bit)
 
-Step 2: Clone this repository
+Step 2: Clone this repository. Find a location on your computer and enter the following:
 
-Find a location on your computer and clone this repository. 
+git clone https://github.com/drcastillo/cmsc427.git
 
 Step 3: Configuring the environment for CrewAI
 
