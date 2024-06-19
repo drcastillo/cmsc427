@@ -33,6 +33,16 @@ Once the environment is cloned change directories to the "cmsc427" directory and
 
 `(cmsc427)`
 
+<strong>Step 5: Setting up the .env file</strong>
+
+<p>You are now ready to run the agents but before you do, you must setup the <strong>.env</strong> file to hold your access tokens for OpenAI and ExaSearch. Create a free account on OpenAI (openai.com) and ExaSearch (exa.ai) and acquire API Keys from both of these services. Although the API keys are free, they will limit you to the number of calls you can make per month and also impact your priority execution. Once you have the API Key open the file called <strong>example.env</strong> and enter your API Keys into the appropriate values. You should see something like this:</p>
+
+`OPENAI_API_KEY="your OpenAI API key here"`
+`EXA_API_KEY="your Exa API key here"`
+
+<p>Save the file as <strong>.env</strong> so that it is picked up by the agent framework code.</p>
+
+<strong>Step 6: Test the Program</strong>
 
 
 
