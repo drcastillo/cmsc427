@@ -13,7 +13,7 @@ This example can be generalized for any reptile or animal but is intentionally f
 
 <p>Download MiniConda 32/64 bit version for Windows or Mac or Linux. Choose the appropriate installer for your operating system and architecture (Windows, macOS, or Linux, 64-bit or 32-bit) </p>
 
-<strong>Step 2: Clone this repository. Find a location on your computer and enter the following:</strong>
+<strong>Step 2: Once you have Miniconda installed clone this repository. Find a location on your computer and enter the following:</strong>
 
 `git clone https://github.com/drcastillo/cmsc427.git`
 
