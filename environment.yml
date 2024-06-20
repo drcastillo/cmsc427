@@ -1,0 +1,20 @@
+name: cmsc427
+channels:
+    - defaults
+dependencies:
+    - pip > 20.0
+    - python=3.11
+    - pip:
+      - crewai
+      - langchain-openai
+      - langchain-groq
+      - langchain_community
+      - langgraph 
+      - google-search-results
+      - beautifulsoup4
+      - tavily-python
+      - python-dotenv
+      - exa_py
+        
+
+       
