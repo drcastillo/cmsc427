@@ -46,7 +46,7 @@ Once the environment is cloned change directories to the "cmsc427" directory and
 
 `(cmsc427): python main.py`<br>
 
-<p>You should see a prmopt asking for the breed of the turtle which you will type in the option and press return. It will then prompt you for the age of the turtle which you will type in an integer number. The process will resemble the following:</p>
+<p>You should see a user prompt asking for the breed of the turtle which you will type in and press return. It will then prompt you for the age of the turtle which you will type in an integer number. The process will resemble the following:</p>
 
 `## Welcome to the Turtle Habitat Information System ##`<br>
 `What is the name of the Turtle breed? Chose one of 'Box Turtle', 'Eastern Box Turtle', 'Diamondback Turtle', or 'Pennisula Cooter Turtle'`<br>
