@@ -52,7 +52,7 @@ Once the environment is cloned change directories to the "cmsc427" directory and
 `What is the name of the Turtle breed? Chose one of 'Box Turtle', 'Eastern Box Turtle', 'Diamondback Turtle', or 'Pennisula Cooter Turtle'`<br>
 `Box Turtle`<br>
 
-`What is the age of the Eastern Box Turtle turtle?`<br>
+`What is the age of the Box Turtle turtle?`<br>
 `2`<br>
 
 <p>You will then see the following text followed by the Agent Chain of Thought Reasoning process. It will finally finish when the Turtle Research Agent hands off it's comprehensive report to the Turtle Habitat Specialist who delivers the final Habitat Specification.</p>
