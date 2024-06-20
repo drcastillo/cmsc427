@@ -50,8 +50,22 @@ Once the environment is cloned change directories to the "cmsc427" directory and
 
 `## Welcome to the Turtle Habitat Information System ##`<br>
 `What is the name of the Turtle breed? Chose one of 'Box Turtle', 'Eastern Box Turtle', 'Diamondback Turtle', or 'Pennisula Cooter Turtle'`<br>
-`Eastern Box Turtle`<br>
+`Box Turtle`<br>
 
 `What is the age of the Eastern Box Turtle turtle?`<br>
-`5`<br>
+`2`<br>
 
+<p>You will then see the following text followed by the Agent Chain of Thought Reasoning process. It will finally finish when the Turtle Research Agent hands off it's comprehensive report to the Turtle Habitat Specialist who delivers the final Habitat Specification.</p>
+
+<strong>>Entering new CrewAgentExecutor chain...</strong><br>
+<p>Thought: To create a habitat specification for a 2-year-old Box Turtle, I need detailed information regarding its habitat requirements, diet, tank size, and climate conditions. I will ask the Turtle Researcher for the comprehensive summary of the findings for the care of the 2-year-old Box Turtle....</p><br>
+<strong>Finished Chain.</strong><br>
+<p>----------------------------------------------------------------------------------</p><br>
+<p>Final Turtle Habitat Specification:</p><br>
+<p>1. **Tank Size in Gallons:** 40 gallons (minimum for a 2-year-old Box Turtle)</p><br>
+<p>2. **Tank Description:** Provide an indoor enclosure such as a large Rubbermaid tub or a specially built wooden box with opaque sides to prevent the turtle from trying to get through the glass and to reduce stress from outside activities. An outdoor enclosure is highly recommended if you live within the natural range of North American box turtles, which should include access to sunlight, shade, a variety of weeds, and a small pond deep enough for swimming.</p><br>
+<p>3. **Substrate:** Use a substrate that maintains humidity and provides a natural environment. A mix of soil, sand, and coconut coir is ideal for retaining moisture and allowing the turtle to dig.</p><br>
+<p>4. **Diet:** Box turtles are omnivorous and require a varied diet. Provide a mix of animal protein (insects such as crickets and worms, snails, and occasional lean meats) and plant matter (leafy greens, vegetables, and fruits). Avoid iceberg lettuce due to its lack of nutritional value. Supplement their diet with calcium and vitamins to support shell and bone health.</p><br>
+<p>5. **Temperature and Lighting:** Maintain a daytime basking area with a temperature range of 85-90°F and allow nighttime temperatures to drop to 70-75°F. Outdoor setups should offer both sunny and shaded areas for natural temperature regulation. Use a UVB light source to ensure proper calcium metabolism and prevent metabolic bone disease. Provide a day/night cycle with around 12 hours of light and 12 hours of darkness.</p><br>
+<p>6. **Enrichment:** Ensure the enclosure has hiding spots, logs, and plants to create a stimulating environment. Regular misting and a humid hide can help maintain humidity levels between 60-80%.</p><br><br>
+<p>By adhering to these specifications, you can create a suitable and enriching environment for a 2-year-old Box Turtle, promoting its health, growth, and overall well-being.</p><br>
