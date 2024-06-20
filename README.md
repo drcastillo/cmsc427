@@ -55,7 +55,7 @@ Once the environment is cloned change directories to the "cmsc427" directory and
 `What is the age of the Box Turtle?`<br>
 `2`<br>
 
-<p>You will then see the following text followed by the Agent Chain of Thought Reasoning process. It will finally finish when the Turtle Research Agent hands off it's comprehensive report to the Turtle Habitat Specialist who delivers the final Habitat Specification.</p>
+<p>You will then see the something resembling the following text followed by the Agent Chain of Thought Reasoning process. It will finally finish when the Turtle Research Agent hands off it's comprehensive report to the Turtle Habitat Specialist who delivers the Final Habitat Specification. Here is an example of an output run less some of teh Chain of Thought reasoning.</p>
 
 <strong>>Entering new CrewAgentExecutor chain...</strong><br>
 <p>Thought: To create a habitat specification for a 2-year-old Box Turtle, I need detailed information regarding its habitat requirements, diet, tank size, and climate conditions. I will ask the Turtle Researcher for the comprehensive summary of the findings for the care of the 2-year-old Box Turtle....</p><br>
