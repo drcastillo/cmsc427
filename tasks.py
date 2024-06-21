@@ -36,7 +36,7 @@ class TurtleTasks():
                     Substrate , Diet, Temperature and Lighting, and Enrichment.
 
                     Example Output: 
-                        '1. Tank Size in Gallons: 80
+                         1. Tank Size in Gallons: 80
                          2. Tank Description: Provide an enclosure that is at least 80 gallons to accommodate the size 
                             and activity level of a 15-year-old Diamondback Terrapin. A larger tank or outdoor 
                             pond setup would be even better if space allows.
@@ -49,7 +49,7 @@ class TurtleTasks():
                             around 75-80°F (24-27°C) and a cooler area around 70°F (21°C). Provide UVB lighting for at least 10-12 
                             hours a day to help with calcium metabolism and overall health.
                          6. Enrichment: Provide hiding spots, aquatic plants, and objects for exploration to create a stimulating environment. 
-                            Diamondback Terrapins enjoy exploring their environment and benefit from enrichment activities.\n\n'"""),
+                            Diamondback Terrapins enjoy exploring their environment and benefit from enrichment activities.\n\n"""),
                 agent=agent,
                 context=context
             )

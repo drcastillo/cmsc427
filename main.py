@@ -13,13 +13,27 @@ load_dotenv()
 # Import Crew
 from crewai import Crew
 
+
+# Import OpenAI 
+from langchain_openai import ChatOpenAI
+
+api_key = os.getenv("OPENAI_API_KEY")
+model = os.getenv("OPENAI_MODEL")
+llm = ChatOpenAI(
+    model = model,
+    api_key = api_key
+)
+max_rpm = 100
+
+
 # import the classes that create the Agents and Tasks
 from tasks import TurtleTasks
 from agents import TurtleAgents
 
 # instantiate the agents and tasks
+agents = TurtleAgents(llm, verbose=True, max_rpm=max_rpm)
 tasks = TurtleTasks()
-agents = TurtleAgents()
+
 
 # Prompt the user for the turtle breed and age
 
@@ -55,7 +69,7 @@ result = crew.kickoff()
 # Print results
 print("\n")
 print("----------------------------------------------------------------------------------\n")
-print("Final result:\n")
+print("Final Turtle Habitat Specification for " + breed + " that is " + str(age) + " years old.")
 print(result)
 print("\n")
 print("----------------------------------------------------------------------------------\n")

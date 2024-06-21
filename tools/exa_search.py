@@ -20,7 +20,8 @@ class ExaSearchTool:
 		"""Get the contents of a webpage.
 		The ids must be passed in as a list, a list of ids returned from `search`.
 		"""
-		
+		print("Ids: \n")
+		print(ids)
 		contents = str(ExaSearchTool._exa().get_contents(ids))
 		print(contents)
 		contents = contents.split("URL:")
