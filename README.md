@@ -35,7 +35,7 @@ Once the environment is cloned change directories to the "cmsc427" directory and
 
 <strong>Step 5: Creating your .env file</strong>
 
-<p>You are now ready to run the agents but before you do, you must create the <strong>.env</strong> file to hold your access tokens for OpenAI and ExaSearch. Setup a free account on OpenAI (openai.com) and ExaSearch (exa.ai) and acquire API Keys from both of these services. Although the API keys are free, they will limit he number of API calls you can make per month and also impact your priority execution. Also do not forget to specify the OPENAI model name, such as "gpt-4o-2024-05-13" as shown below. Once you have the API Key create a file called <strong>.env</strong> and enter your API Keys and model name into the appropriate values. You should see the following keys with the values you have created:</p>
+<p>You are now ready to run the agents but before you do, you must create the <strong>.env</strong> file to hold your access tokens for OpenAI and ExaSearch. Setup a free account on OpenAI (openai.com) and ExaSearch (exa.ai) and acquire API Keys from both of these services. Although the API keys are free, they will limit the number of API calls you can make per month and also impact your priority execution. Also do not forget to specify the OPENAI model name, such as "gpt-4o-2024-05-13" as shown below. Once you have the API Key create a file called <strong>.env</strong> and enter your API Keys and model name into the appropriate values. You should see the following keys with the values you have created:</p>
 
 `OPENAI_API_KEY="your OpenAI API key here"`<br>
 `OPENAI_MODEL="gpt-4o-2024-05-13"`  # you can use any OPENAI model you wish<br>
